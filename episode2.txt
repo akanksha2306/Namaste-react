@@ -60,5 +60,3 @@ every dependancy has its own package.json.
 
 // const root = ReactDOM.createRoot(document.getElementById("root"));
 
-
-
