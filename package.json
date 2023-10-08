@@ -7,6 +7,7 @@
   "version": "1.0.0",
   "description": "namaste react ",
   "dependencies": {
+    "@parcel/resolver-glob": "^2.9.3",
     "abortcontroller-polyfill": "^1.7.5",
     "ansi-styles": "^4.3.0",
     "argparse": "^2.0.1",
@@ -106,7 +107,7 @@
   },
   "scripts": {
     "test": "jest",
-    "build":"parcel build index.html",
+    "build": "parcel build index.html",
     "start": "parcel index.html"
   },
   "repository": {
